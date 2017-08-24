@@ -1,0 +1,10 @@
+@charset 'utf-8';  /*为了查看中文注释*/
+
+html,
+body,
+div,
+ul,li {
+	margin: 0;
+	padding: 0;
+}
+
